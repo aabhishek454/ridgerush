@@ -1,0 +1,11 @@
+{
+  "name": "RidgeRush",
+  "short_name": "RidgeRush",
+  "description": "Master the Momentum",
+  "start_url": "./",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#0a0e17",
+  "theme_color": "#0a0e17",
+  "icons": [{ "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
